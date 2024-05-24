@@ -1,0 +1,4071 @@
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 15
+(compaction)file_number: 13
+(compaction)file_number: 11
+(compaction)file_number: 9
+(after_compaction)generated_files: 16
+(after_compaction)generated_files: 17
+(after_compaction)generated_files: 18
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 26
+(compaction)file_number: 24
+(compaction)file_number: 22
+(compaction)file_number: 20
+(compaction)level: 1
+(compaction)file_number: 16
+(compaction)file_number: 17
+(compaction)file_number: 18
+(after_compaction)generated_files: 27
+(after_compaction)generated_files: 28
+(after_compaction)generated_files: 29
+(after_compaction)generated_files: 30
+(after_compaction)generated_files: 31
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 39
+(compaction)file_number: 37
+(compaction)file_number: 35
+(compaction)file_number: 33
+(compaction)level: 1
+(compaction)file_number: 31
+(after_compaction)generated_files: 40
+(after_compaction)generated_files: 41
+(after_compaction)generated_files: 42
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 50
+(compaction)file_number: 48
+(compaction)file_number: 46
+(compaction)file_number: 44
+(compaction)level: 1
+(compaction)file_number: 40
+(compaction)file_number: 41
+(compaction)file_number: 42
+(after_compaction)generated_files: 51
+(after_compaction)generated_files: 52
+(after_compaction)generated_files: 53
+(after_compaction)generated_files: 54
+(after_compaction)generated_files: 55
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 51
+(compaction)level: 2
+(compaction)file_number: 27
+(after_compaction)generated_files: 56
+(after_compaction)generated_files: 57
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 65
+(compaction)file_number: 63
+(compaction)file_number: 61
+(compaction)file_number: 59
+(compaction)level: 1
+(compaction)file_number: 52
+(compaction)file_number: 53
+(compaction)file_number: 54
+(compaction)file_number: 55
+(after_compaction)generated_files: 66
+(after_compaction)generated_files: 67
+(after_compaction)generated_files: 68
+(after_compaction)generated_files: 69
+(after_compaction)generated_files: 70
+(after_compaction)generated_files: 71
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 68
+(compaction)level: 2
+(compaction)file_number: 29
+(after_compaction)generated_files: 72
+(after_compaction)generated_files: 73
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 70
+(compaction)level: 2
+(compaction)file_number: 30
+(after_compaction)generated_files: 74
+(after_compaction)generated_files: 77
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 83
+(compaction)file_number: 81
+(compaction)file_number: 79
+(compaction)file_number: 76
+(compaction)level: 1
+(compaction)file_number: 66
+(compaction)file_number: 67
+(compaction)file_number: 69
+(after_compaction)generated_files: 84
+(after_compaction)generated_files: 85
+(after_compaction)generated_files: 86
+(after_compaction)generated_files: 87
+(after_compaction)generated_files: 88
+(after_compaction)generated_files: 89
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 84
+(compaction)level: 2
+(compaction)file_number: 56
+(compaction)file_number: 57
+(after_compaction)generated_files: 90
+(after_compaction)generated_files: 91
+(after_compaction)generated_files: 92
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 85
+(compaction)level: 2
+(compaction)file_number: 92
+(compaction)file_number: 28
+(after_compaction)generated_files: 95
+(after_compaction)generated_files: 96
+(after_compaction)generated_files: 97
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 103
+(compaction)file_number: 101
+(compaction)file_number: 99
+(compaction)file_number: 94
+(compaction)level: 1
+(compaction)file_number: 86
+(compaction)file_number: 87
+(compaction)file_number: 88
+(compaction)file_number: 89
+(after_compaction)generated_files: 104
+(after_compaction)generated_files: 105
+(after_compaction)generated_files: 106
+(after_compaction)generated_files: 107
+(after_compaction)generated_files: 108
+(after_compaction)generated_files: 109
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 105
+(compaction)level: 2
+(compaction)file_number: 97
+(compaction)file_number: 72
+(after_compaction)generated_files: 110
+(after_compaction)generated_files: 111
+(after_compaction)generated_files: 112
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 107
+(compaction)level: 2
+(compaction)file_number: 73
+(compaction)file_number: 74
+(after_compaction)generated_files: 113
+(after_compaction)generated_files: 116
+(after_compaction)generated_files: 117
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 123
+(compaction)file_number: 121
+(compaction)file_number: 119
+(compaction)file_number: 115
+(compaction)level: 1
+(compaction)file_number: 104
+(compaction)file_number: 106
+(compaction)file_number: 108
+(compaction)file_number: 109
+(after_compaction)generated_files: 124
+(after_compaction)generated_files: 125
+(after_compaction)generated_files: 126
+(after_compaction)generated_files: 127
+(after_compaction)generated_files: 128
+(after_compaction)generated_files: 129
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 128
+(compaction)level: 2
+(compaction)file_number: 117
+(compaction)file_number: 77
+(compaction)file_number: 71
+(after_compaction)generated_files: 130
+(after_compaction)generated_files: 131
+(after_compaction)generated_files: 132
+(after_compaction)generated_files: 135
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 126
+(compaction)level: 2
+(compaction)file_number: 111
+(compaction)file_number: 112
+(compaction)file_number: 113
+(after_compaction)generated_files: 136
+(after_compaction)generated_files: 137
+(after_compaction)generated_files: 138
+(after_compaction)generated_files: 139
+compaction begin: 
+(compaction)level: 0
+(compaction)file_number: 145
+(compaction)file_number: 143
+(compaction)file_number: 141
+(compaction)file_number: 134
+(compaction)level: 1
+(compaction)file_number: 124
+(compaction)file_number: 125
+(compaction)file_number: 127
+(compaction)file_number: 129
+(after_compaction)generated_files: 146
+(after_compaction)generated_files: 147
+(after_compaction)generated_files: 148
+(after_compaction)generated_files: 149
+(after_compaction)generated_files: 150
+(after_compaction)generated_files: 151
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 146
+(compaction)level: 2
+(compaction)file_number: 90
+(compaction)file_number: 91
+(after_compaction)generated_files: 152
+(after_compaction)generated_files: 153
+(after_compaction)generated_files: 154
+compaction begin: 
+(compaction)level: 1
+(compaction)file_number: 147
+(compaction)level: 2
+(compaction)file_number: 154
+(compaction)file_number: 95
+(compaction)file_number: 96
+(after_compaction)generated_files: 157
+(after_compaction)generated_files: 158
+(after_compaction)generated_files: 159
+(after_compaction)generated_files: 160
+user_key_comparison_count = 487787279, block_cache_hit_count = 14332967, block_read_count = 1818495, block_read_byte = 4400790402, block_read_time = 0, block_cache_index_hit_count = 7866066, block_cache_standalone_handle_count = 4466550, block_cache_real_handle_count = 1182722, index_block_read_count = 4, block_cache_filter_hit_count = 0, filter_block_read_count = 0, compression_dict_block_read_count = 0, secondary_cache_hit_count = 5649272, compressed_sec_cache_insert_real_count = 0, compressed_sec_cache_insert_dummy_count = 0, compressed_sec_cache_uncompressed_bytes = 0, compressed_sec_cache_compressed_bytes = 0, block_checksum_time = 0, block_decompress_time = 0, get_read_bytes = 544074752, multiget_read_bytes = 0, iter_read_bytes = 0, blob_cache_hit_count = 0, blob_read_count = 0, blob_read_byte = 0, blob_read_time = 0, blob_checksum_time = 0, blob_decompress_time = 0, internal_key_skipped_count = 0, internal_delete_skipped_count = 0, internal_recent_skipped_count = 0, internal_merge_count = 0, internal_range_del_reseek_count = 0, write_wal_time = 0, get_snapshot_time = 0, get_from_memtable_time = 0, get_from_memtable_count = 2521522, get_post_process_time = 0, get_from_output_files_time = 0, seek_on_memtable_time = 0, seek_on_memtable_count = 0, next_on_memtable_count = 0, prev_on_memtable_count = 0, seek_child_seek_time = 0, seek_child_seek_count = 0, seek_min_heap_time = 0, seek_internal_seek_time = 0, find_next_user_entry_time = 0, write_pre_and_post_process_time = 0, write_memtable_time = 0, write_thread_wait_nanos = 0, write_scheduling_flushes_compactions_time = 0, db_mutex_lock_nanos = 0, db_condition_wait_nanos = 0, merge_operator_time_nanos = 0, write_delay_time = 0, read_index_block_nanos = 0, read_filter_block_nanos = 0, new_table_block_iter_nanos = 0, new_table_iterator_nanos = 0, block_seek_nanos = 0, find_table_nanos = 0, bloom_memtable_hit_count = 0, bloom_memtable_miss_count = 0, bloom_sst_hit_count = 0, bloom_sst_miss_count = 0, key_lock_wait_time = 0, key_lock_wait_count = 0, env_new_sequential_file_nanos = 0, env_new_random_access_file_nanos = 0, env_new_writable_file_nanos = 0, env_reuse_writable_file_nanos = 0, env_new_random_rw_file_nanos = 0, env_new_directory_nanos = 0, env_file_exists_nanos = 0, env_get_children_nanos = 0, env_get_children_file_attributes_nanos = 0, env_delete_file_nanos = 0, env_create_dir_nanos = 0, env_create_dir_if_missing_nanos = 0, env_delete_dir_nanos = 0, env_get_file_size_nanos = 0, env_get_file_modification_time_nanos = 0, env_rename_file_nanos = 0, env_link_file_nanos = 0, env_lock_file_nanos = 0, env_unlock_file_nanos = 0, env_new_logger_nanos = 0, get_cpu_nanos = 0, iter_next_cpu_nanos = 0, iter_prev_cpu_nanos = 0, iter_seek_cpu_nanos = 0, number_async_seek = 0, bloom_filter_useful = 0@level0, 0@level1, 0@level2, bloom_filter_full_positive = 0@level0, 0@level1, 0@level2, bloom_filter_full_true_positive = 0@level0, 0@level1, 0@level2, block_cache_hit_count = 8781623@level0, 4002592@level1, 1548752@level2, block_cache_miss_count = 568853@level0, 735790@level1, 513852@level2
+Cumulative compaction: 5.72 GB write, 0.84 MB/s write, 4.53 GB read, 0.66 MB/s read, 1645.7 seconds
+Interval compaction: 0.04 GB write, 0.09 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.5 seconds
+Stalls(count): 0 level0_slowdown, 0 level0_slowdown_with_compaction, 0 level0_numfiles, 0 level0_numfiles_with_compaction, 0 stop for pending_compaction_bytes, 0 slowdown for pending_compaction_bytes, 0 memtable_compaction, 0 memtable_slowdown, interval 0 total count
+rocksdb.compaction.key.drop.new COUNT : 347682
+rocksdb.compaction.key.drop.obsolete COUNT : 0
+rocksdb.compaction.key.drop.range_del COUNT : 0
+rocksdb.compaction.key.drop.user COUNT : 0
+rocksdb.compaction.range_del.drop.obsolete COUNT : 0
+rocksdb.compaction.optimized.del.drop.obsolete COUNT : 0
+rocksdb.compaction.cancelled COUNT : 0
+rocksdb.memtable.compaction.micros COUNT : 0
+rocksdb.compaction.times.micros P50 : 55250000.000000 P95 : 160000000.000000 P99 : 164583414.000000 P100 : 164583414.000000 COUNT : 20 SUM : 1627483676
+rocksdb.compaction.times.cpu_micros P50 : 27500000.000000 P95 : 66926563.000000 P99 : 66926563.000000 P100 : 66926563.000000 COUNT : 20 SUM : 687753023
+rocksdb.subcompaction.setup.times.micros P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.compaction.outfile.sync.micros P50 : 143.934426 P95 : 337.388889 P99 : 410.000000 P100 : 410.000000 COUNT : 79 SUM : 12481
+rocksdb.read.block.compaction.micros P50 : 19.829521 P95 : 39.758558 P99 : 50.612266 P100 : 5026.000000 COUNT : 651845 SUM : 16312930
+rocksdb.memtable.compaction.count P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+rocksdb.numfiles.in.singlecompaction P50 : 3.400000 P95 : 8.000000 P99 : 8.000000 P100 : 8.000000 COUNT : 22 SUM : 100
+rocksdb.num.subcompactions.scheduled P50 : 0.000000 P95 : 0.000000 P99 : 0.000000 P100 : 0.000000 COUNT : 0 SUM : 0
+file_num_begin_access_count: 100000
+file_num: 9 access_count: 43515
+file_num: 11 access_count: 22485
+file_num_end
+file_num_begin_access_count: 200000
+file_num: 9 access_count: 78134
+file_num: 11 access_count: 56670
+file_num: 13 access_count: 19848
+file_num_end
+file_num_begin_access_count: 300000
+file_num: 9 access_count: 105753
+file_num: 11 access_count: 84294
+file_num: 13 access_count: 46228
+file_num: 15 access_count: 2181
+file_num_end
+file_num_begin_access_count: 300000
+file_num: 9 access_count: 105753
+file_num: 11 access_count: 84294
+file_num: 13 access_count: 46229
+file_num: 15 access_count: 2181
+file_num_end
+(compaction)file_number: 15
+(compaction)file_number: 13
+(compaction)file_number: 11
+(compaction)file_number: 9
+file_num_begin_access_count: 500000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 24115
+file_num: 17 access_count: 24041
+file_num: 18 access_count: 5033
+file_num: 20 access_count: 29136
+file_num: 22 access_count: 75
+file_num_end
+file_num_begin_access_count: 700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 54005
+file_num: 17 access_count: 53710
+file_num: 18 access_count: 11097
+file_num: 20 access_count: 86333
+file_num: 22 access_count: 45355
+file_num: 24 access_count: 4541
+file_num_end
+file_num_begin_access_count: 800000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 66610
+file_num: 17 access_count: 66174
+file_num: 18 access_count: 13670
+file_num: 20 access_count: 110260
+file_num: 22 access_count: 69196
+file_num: 24 access_count: 24199
+file_num_end
+file_num_begin_access_count: 900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 89148
+file_num: 17 access_count: 74047
+file_num: 18 access_count: 15216
+file_num: 20 access_count: 128913
+file_num: 22 access_count: 88038
+file_num: 24 access_count: 42277
+file_num: 26 access_count: 546
+file_num_end
+file_num_begin_access_count: 1000000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 104962
+file_num: 17 access_count: 91597
+file_num: 18 access_count: 16257
+file_num: 20 access_count: 145178
+file_num: 22 access_count: 104326
+file_num: 24 access_count: 58283
+file_num: 26 access_count: 7808
+file_num_end
+(compaction)file_number: 26
+(compaction)file_number: 24
+(compaction)file_number: 22
+(compaction)file_number: 20
+(compaction)file_number: 16
+(compaction)file_number: 17
+(compaction)file_number: 18
+file_num_begin_access_count: 1300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 11577
+file_num: 28 access_count: 11504
+file_num: 29 access_count: 11592
+file_num: 30 access_count: 11717
+file_num: 31 access_count: 3633
+file_num: 33 access_count: 54831
+file_num: 35 access_count: 11656
+file_num_end
+file_num_begin_access_count: 1400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 17678
+file_num: 28 access_count: 17726
+file_num: 29 access_count: 17645
+file_num: 30 access_count: 17910
+file_num: 31 access_count: 5561
+file_num: 33 access_count: 83166
+file_num: 35 access_count: 37962
+file_num: 37 access_count: 346
+file_num_end
+file_num_begin_access_count: 1500000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 22904
+file_num: 28 access_count: 23155
+file_num: 29 access_count: 22894
+file_num: 30 access_count: 23271
+file_num: 31 access_count: 7187
+file_num: 33 access_count: 107635
+file_num: 35 access_count: 62410
+file_num: 37 access_count: 15652
+file_num_end
+file_num_begin_access_count: 1700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 30125
+file_num: 28 access_count: 30384
+file_num: 29 access_count: 30090
+file_num: 30 access_count: 30569
+file_num: 31 access_count: 12310
+file_num: 33 access_count: 152613
+file_num: 35 access_count: 107344
+file_num: 37 access_count: 58442
+file_num: 39 access_count: 4977
+file_num_end
+file_num_begin_access_count: 1700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+access_count: file_num: 1700001
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 30125
+file_num: 28 access_count: 30384
+file_num: 29 access_count: 30090
+file_num: 30 access_count: 30569
+file_num: 31 access_count: 12311
+file_num: 33 access_count: 152613
+file_num: 35 access_count: 107344
+file_num: 37 access_count: 58442
+file_num: 39 access_count: 4977
+file_num_end
+(compaction)file_number: 39
+(compaction)file_number: 37
+(compaction)file_number: 35
+(compaction)file_number: 33
+(compaction)file_number: 31
+file_num_begin_access_count: 1900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 47847
+file_num: 28 access_count: 48105
+file_num: 29 access_count: 47960
+file_num: 30 access_count: 48411
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 15985
+file_num: 41 access_count: 15928
+file_num: 42 access_count: 2260
+file_num: 44 access_count: 13970
+file_num_end
+file_num_begin_access_count: 2000000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 55151
+file_num: 28 access_count: 55351
+file_num: 29 access_count: 55225
+file_num: 30 access_count: 55549
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 28493
+file_num: 41 access_count: 28217
+file_num: 42 access_count: 4170
+file_num: 44 access_count: 38275
+file_num: 46 access_count: 1080
+file_num_end
+file_num_begin_access_count: 2100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 61285
+file_num: 28 access_count: 61524
+file_num: 29 access_count: 61322
+file_num: 30 access_count: 61716
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 39987
+file_num: 41 access_count: 39579
+file_num: 42 access_count: 6177
+file_num: 44 access_count: 61702
+file_num: 46 access_count: 17348
+file_num_end
+file_num_begin_access_count: 2200000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 67069
+file_num: 28 access_count: 67319
+file_num: 29 access_count: 67012
+file_num: 30 access_count: 67444
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 51112
+file_num: 41 access_count: 50528
+file_num: 42 access_count: 8144
+file_num: 44 access_count: 83201
+file_num: 46 access_count: 37578
+file_num: 48 access_count: 192
+file_num_end
+file_num_begin_access_count: 2300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 71953
+file_num: 28 access_count: 72198
+file_num: 29 access_count: 71853
+file_num: 30 access_count: 72227
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 60815
+file_num: 41 access_count: 60071
+file_num: 42 access_count: 9804
+file_num: 44 access_count: 102945
+file_num: 46 access_count: 57283
+file_num: 48 access_count: 10978
+file_num_end
+file_num_begin_access_count: 2400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 76919
+file_num: 28 access_count: 77059
+file_num: 29 access_count: 76756
+file_num: 30 access_count: 77083
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 70592
+file_num: 41 access_count: 69671
+file_num: 42 access_count: 11588
+file_num: 44 access_count: 122062
+file_num: 46 access_count: 76354
+file_num: 48 access_count: 28037
+file_num_end
+file_num_begin_access_count: 2600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 81992
+file_num: 28 access_count: 81994
+file_num: 29 access_count: 81800
+file_num: 30 access_count: 82193
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 106288
+file_num: 41 access_count: 93218
+file_num: 42 access_count: 13538
+file_num: 44 access_count: 152675
+file_num: 46 access_count: 106922
+file_num: 48 access_count: 57888
+file_num: 50 access_count: 5824
+file_num_end
+(compaction)file_number: 50
+(compaction)file_number: 48
+(compaction)file_number: 46
+(compaction)file_number: 44
+(compaction)file_number: 40
+(compaction)file_number: 41
+(compaction)file_number: 42
+file_num_begin_access_count: 2700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 86816
+file_num: 28 access_count: 84273
+file_num: 29 access_count: 84094
+file_num: 30 access_count: 84495
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 0
+file_num: 52 access_count: 0
+file_num: 53 access_count: 0
+file_num: 54 access_count: 0
+file_num_end
+file_num_begin_access_count: 2700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 86816
+file_num: 28 access_count: 84273
+file_num: 29 access_count: 84095
+file_num: 30 access_count: 84495
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 0
+file_num: 52 access_count: 0
+file_num: 53 access_count: 0
+file_num: 54 access_count: 0
+file_num_end
+(compaction)file_number: 51
+(compaction)file_number: 27
+file_num_begin_access_count: 3000000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 107129
+file_num: 29 access_count: 107247
+file_num: 30 access_count: 107804
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 9117
+file_num: 53 access_count: 9310
+file_num: 54 access_count: 9350
+file_num: 55 access_count: 1977
+file_num: 56 access_count: 1740
+file_num: 57 access_count: 1466
+file_num: 59 access_count: 41812
+file_num: 61 access_count: 1313
+file_num_end
+file_num_begin_access_count: 3100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 113458
+file_num: 29 access_count: 113703
+file_num: 30 access_count: 114199
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 13945
+file_num: 53 access_count: 14272
+file_num: 54 access_count: 14154
+file_num: 55 access_count: 3110
+file_num: 56 access_count: 3230
+file_num: 57 access_count: 2848
+file_num: 59 access_count: 67401
+file_num: 61 access_count: 19806
+file_num_end
+file_num_begin_access_count: 3200000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 120814
+file_num: 29 access_count: 119414
+file_num: 30 access_count: 119748
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 18542
+file_num: 53 access_count: 19003
+file_num: 54 access_count: 18768
+file_num: 55 access_count: 4266
+file_num: 56 access_count: 4705
+file_num: 57 access_count: 4243
+file_num: 59 access_count: 89420
+file_num: 61 access_count: 41001
+file_num: 63 access_count: 3347
+file_num_end
+file_num_begin_access_count: 3300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 129527
+file_num: 29 access_count: 123740
+file_num: 30 access_count: 124109
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 22433
+file_num: 53 access_count: 22882
+file_num: 54 access_count: 22629
+file_num: 55 access_count: 5245
+file_num: 56 access_count: 5996
+file_num: 57 access_count: 5537
+file_num: 59 access_count: 107953
+file_num: 61 access_count: 59534
+file_num: 63 access_count: 21268
+file_num_end
+file_num_begin_access_count: 3600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 148040
+file_num: 29 access_count: 133186
+file_num: 30 access_count: 133407
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 53095
+file_num: 53 access_count: 43140
+file_num: 54 access_count: 31399
+file_num: 55 access_count: 7563
+file_num: 56 access_count: 9390
+file_num: 57 access_count: 8561
+file_num: 59 access_count: 155814
+file_num: 61 access_count: 107839
+file_num: 63 access_count: 76822
+file_num: 65 access_count: 4193
+file_num_end
+file_num_begin_access_count: 3600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+access_count: file_num: 360000117
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 148040
+file_num: 29 access_count: 133186
+file_num: 30 access_count: 133407
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 53095
+file_num: 53 access_count: 43141
+file_num: 54 access_count: 31399
+file_num: 55 access_count: 7563
+file_num: 56 access_count: 9390
+file_num: 57 access_count: 8561
+file_num: 59 access_count: 155814
+file_num: 61 access_count: 107839
+file_num: 63 access_count: 76822
+file_num: 65 access_count: 4193
+file_num_end
+file_num_begin_access_count: 3700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 151728
+file_num: 29 access_count: 134994
+file_num: 30 access_count: 135167
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 54969
+file_num: 53 access_count: 56160
+file_num: 54 access_count: 49435
+file_num: 55 access_count: 8059
+file_num: 56 access_count: 10163
+file_num: 57 access_count: 9231
+file_num: 59 access_count: 168349
+file_num: 61 access_count: 120406
+file_num: 63 access_count: 89159
+file_num: 65 access_count: 12137
+file_num_end
+file_num_begin_access_count: 3700000
+access_count: file_num: 37000019 access_count: 
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 151728
+file_num: 29 access_count: 134994
+file_num: 30 access_count: 135167
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 54969
+file_num: 53 access_count: 56160
+file_num: 54 access_count: 49436
+file_num: 55 access_count: 8059
+file_num: 56 access_count: 10163
+file_num: 57 access_count: 9231
+file_num: 59 access_count: 168349
+file_num: 61 access_count: 120406
+file_num: 63 access_count: 89159
+file_num: 65 access_count: 12137
+file_num_end
+(compaction)file_number: 65
+(compaction)file_number: 63
+(compaction)file_number: 61
+(compaction)file_number: 59
+(compaction)file_number: 52
+(compaction)file_number: 53
+(compaction)file_number: 54
+(compaction)file_number: 55
+(compaction)file_number: 68
+(compaction)file_number: 29
+file_num_begin_access_count: 3900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 161397
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 152196
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 13706
+file_num: 57 access_count: 12548
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 2028
+file_num: 67 access_count: 527
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 473
+file_num: 70 access_count: 491
+file_num: 71 access_count: 150
+file_num: 72 access_count: 2
+file_num: 73 access_count: 2
+file_num: 76 access_count: 84
+file_num_end
+(compaction)file_number: 70
+(compaction)file_number: 30
+file_num_begin_access_count: 4100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 172688
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 21784
+file_num: 57 access_count: 17266
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 12942
+file_num: 67 access_count: 3848
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 3779
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 1153
+file_num: 72 access_count: 773
+file_num: 73 access_count: 1369
+file_num: 74 access_count: 557
+file_num: 76 access_count: 38252
+file_num: 77 access_count: 2909
+file_num: 79 access_count: 44
+file_num_end
+file_num_begin_access_count: 4500000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 191497
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 38761
+file_num: 57 access_count: 26113
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 39459
+file_num: 67 access_count: 14071
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 13996
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 4366
+file_num: 72 access_count: 5005
+file_num: 73 access_count: 7793
+file_num: 74 access_count: 6415
+file_num: 76 access_count: 130091
+file_num: 77 access_count: 12543
+file_num: 79 access_count: 78225
+file_num: 81 access_count: 25644
+file_num_end
+file_num_begin_access_count: 4600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 194634
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 41784
+file_num: 57 access_count: 27714
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 53039
+file_num: 67 access_count: 16158
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 16175
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 5081
+file_num: 72 access_count: 5946
+file_num: 73 access_count: 9217
+file_num: 74 access_count: 7917
+file_num: 76 access_count: 148081
+file_num: 77 access_count: 14439
+file_num: 79 access_count: 96310
+file_num: 81 access_count: 42947
+file_num: 83 access_count: 53
+file_num_end
+(compaction)file_number: 83
+(compaction)file_number: 81
+(compaction)file_number: 79
+(compaction)file_number: 76
+(compaction)file_number: 66
+(compaction)file_number: 67
+(compaction)file_number: 69
+(compaction)file_number: 84
+(compaction)file_number: 56
+(compaction)file_number: 57
+(compaction)file_number: 85
+(compaction)file_number: 92
+(compaction)file_number: 28
+file_num_begin_access_count: 5300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 11231
+file_num: 72 access_count: 14887
+file_num: 73 access_count: 21464
+file_num: 74 access_count: 21283
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 28485
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 5006
+file_num: 87 access_count: 10274
+file_num: 88 access_count: 13770
+file_num: 89 access_count: 1936
+file_num: 90 access_count: 717
+file_num: 91 access_count: 3806
+file_num: 92 access_count: 44
+file_num: 94 access_count: 52573
+file_num: 95 access_count: 348
+file_num: 96 access_count: 3357
+file_num: 97 access_count: 775
+file_num: 99 access_count: 4703
+file_num_end
+file_num_begin_access_count: 5400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 12663
+file_num: 72 access_count: 17035
+file_num: 73 access_count: 24315
+file_num: 74 access_count: 24484
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 30322
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 7465
+file_num: 87 access_count: 14764
+file_num: 88 access_count: 19638
+file_num: 89 access_count: 2774
+file_num: 90 access_count: 1434
+file_num: 91 access_count: 6109
+file_num: 92 access_count: 44
+file_num: 94 access_count: 77692
+file_num: 95 access_count: 862
+file_num: 96 access_count: 5512
+file_num: 97 access_count: 1890
+file_num: 99 access_count: 25633
+file_num_end
+file_num_begin_access_count: 5500000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 13959
+file_num: 72 access_count: 18999
+file_num: 73 access_count: 26782
+file_num: 74 access_count: 27291
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 31945
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 9807
+file_num: 87 access_count: 18979
+file_num: 88 access_count: 24911
+file_num: 89 access_count: 3500
+file_num: 90 access_count: 2183
+file_num: 91 access_count: 8329
+file_num: 92 access_count: 44
+file_num: 94 access_count: 100312
+file_num: 95 access_count: 1493
+file_num: 96 access_count: 7600
+file_num: 97 access_count: 3143
+file_num: 99 access_count: 47505
+file_num: 101 access_count: 1907
+file_num_end
+file_num_begin_access_count: 5600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 15113
+file_num: 72 access_count: 20718
+file_num: 73 access_count: 29043
+file_num: 74 access_count: 29837
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 33445
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 12012
+file_num: 87 access_count: 22918
+file_num: 88 access_count: 29902
+file_num: 89 access_count: 4143
+file_num: 90 access_count: 2937
+file_num: 91 access_count: 10495
+file_num: 92 access_count: 44
+file_num: 94 access_count: 120910
+file_num: 95 access_count: 2121
+file_num: 96 access_count: 9633
+file_num: 97 access_count: 4529
+file_num: 99 access_count: 67996
+file_num: 101 access_count: 16678
+file_num_end
+file_num_begin_access_count: 5700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 16252
+file_num: 72 access_count: 22471
+file_num: 73 access_count: 31416
+file_num: 74 access_count: 32462
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 35061
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 14302
+file_num: 87 access_count: 27077
+file_num: 88 access_count: 35059
+file_num: 89 access_count: 4800
+file_num: 90 access_count: 3837
+file_num: 91 access_count: 12589
+file_num: 92 access_count: 44
+file_num: 94 access_count: 141121
+file_num: 95 access_count: 2882
+file_num: 96 access_count: 11647
+file_num: 97 access_count: 6012
+file_num: 99 access_count: 88243
+file_num: 101 access_count: 35573
+file_num_end
+file_num_begin_access_count: 5800000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 16776
+file_num: 72 access_count: 23353
+file_num: 73 access_count: 32520
+file_num: 74 access_count: 33714
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 35808
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 27320
+file_num: 87 access_count: 29084
+file_num: 88 access_count: 37568
+file_num: 89 access_count: 5107
+file_num: 90 access_count: 4291
+file_num: 91 access_count: 13627
+file_num: 92 access_count: 44
+file_num: 94 access_count: 157147
+file_num: 95 access_count: 3287
+file_num: 96 access_count: 12641
+file_num: 97 access_count: 6714
+file_num: 99 access_count: 104270
+file_num: 101 access_count: 51305
+file_num: 103 access_count: 1024
+file_num_end
+file_num_begin_access_count: 5900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 17259
+file_num: 72 access_count: 24093
+file_num: 73 access_count: 33489
+file_num: 74 access_count: 34735
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 36416
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 33570
+file_num: 87 access_count: 50123
+file_num: 88 access_count: 39678
+file_num: 89 access_count: 5418
+file_num: 90 access_count: 4681
+file_num: 91 access_count: 14504
+file_num: 92 access_count: 44
+file_num: 94 access_count: 169633
+file_num: 95 access_count: 3641
+file_num: 96 access_count: 13496
+file_num: 97 access_count: 7366
+file_num: 99 access_count: 116765
+file_num: 101 access_count: 63629
+file_num: 103 access_count: 6755
+file_num_end
+(compaction)file_number: 103
+(compaction)file_number: 101
+(compaction)file_number: 99
+(compaction)file_number: 94
+(compaction)file_number: 86
+(compaction)file_number: 87
+(compaction)file_number: 88
+(compaction)file_number: 89
+(compaction)file_number: 105
+(compaction)file_number: 97
+(compaction)file_number: 72
+file_num_begin_access_count: 6300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: file_num_begin_access_count: 186300000 access_count: 
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: file_num: 35 access_count: 26109391 access_count: 
+16977file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 42 access_count: file_num: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+30file_num:  access_count: 50172464 access_count: 
+13505file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 11883354
+ access_count: file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 56690
+72982file_num: 
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+55file_num:  access_count: 6819239 access_count: 
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 20652
+file_num: file_num: 7256 access_count: 48857 access_count: 
+72982file_num: 73 access_count: 61202
+file_num: 74 access_count: 62386
+file_num: 76 access_count: 181368
+file_num: 57file_num: 77 access_count: 46792
+file_num: 79 access_count: 129796
+file_num: 81 access_count:  access_count: 5343575818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90file_num: 59 access_count: 175181
+file_num: 61 access_count:  access_count: 1272987938
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: file_num: 91 access_count: 21644
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 6617
+file_num: 96 access_count: 20642
+file_num: 97 access_count: 20898
+66file_num:  access_count: 9973136 access_count: 
+128842file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 20652
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61202
+file_num: 74 access_count: file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 7895
+file_num: 105 access_count: 545
+file_num: 106 access_count: 2182
+file_num: 107 access_count: 5272
+file_num: 108 access_count: 10241
+file_num: 109 access_count: 449
+file_num: 110 access_count: 2521
+62386file_num: 
+111file_num: 76 access_count: 181368
+file_num: 77 access_count: 46792
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 7938
+file_num: 91 access_count: 21644
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+ access_count: file_num: 95 access_count: 6617
+file_num: 96 access_count: 20642
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 7895
+file_num: 105 access_count: 545
+file_num: 106 access_count: 2182
+file_num: 107 access_count: 5272
+file_num: 108 access_count: 10241
+file_num: 109 access_count: 449
+file_num: 110file_num:  access_count: 1122521 access_count: 
+file_num: file_num: 111 access_count: 11575 access_count: 
+9415file_num: 112 access_count: 64
+file_num: 115 access_count: 9415
+file_num_end
+file_num_end
+(compaction)file_number: 107
+(compaction)file_number: 73
+(compaction)file_number: 74
+file_num_begin_access_count: 6500000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 23312
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 55414
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 10903
+file_num: 91 access_count: 27928
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 9414
+file_num: 96 access_count: 26732
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 24355
+file_num: 105 access_count: 545
+file_num: 106 access_count: 7465
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 23601
+file_num: 109 access_count: 1468
+file_num: 110 access_count: 3589
+file_num: 111 access_count: 2748
+file_num: 112 access_count: 619
+file_num: 113 access_count: 648
+file_num: 115 access_count: 57378
+file_num: 116 access_count: 305
+file_num: 117 access_count: 440
+file_num: 119 access_count: 11011
+file_num_end
+file_num_begin_access_count: 6600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 24339
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 59095
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 12266
+file_num: 91 access_count: 30608
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 10729
+file_num: 96 access_count: 29451
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 32394
+file_num: 105 access_count: 545
+file_num: 106 access_count: 10371
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 30001
+file_num: 109 access_count: 1994
+file_num: 110 access_count: 4330
+file_num: 111 access_count: 5262
+file_num: 112 access_count: 989
+file_num: 113 access_count: 1301
+file_num: 115 access_count: 79091
+file_num: 116 access_count: 671
+file_num: 117 access_count: 967
+file_num: 119 access_count: 33412
+file_num_end
+file_num_begin_access_count: 6700000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 25240
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 62506
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 13540
+file_num: 91 access_count: 33075
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 11956
+file_num: 96 access_count: 31912
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 39912
+file_num: 105 access_count: 545
+file_num: 106 access_count: 13228
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 36158
+file_num: 109 access_count: 2500
+file_num: 110 access_count: 5074
+file_num: 111 access_count: 7629
+file_num: 112 access_count: 1404
+file_num: 113 access_count: 2160
+file_num: 115 access_count: 99197
+file_num: 116 access_count: 1099
+file_num: 117 access_count: 1529
+file_num: 119 access_count: 56170
+file_num: 121 access_count: 791
+file_num_end
+file_num_begin_access_count: 6800000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 26038
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 65325
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 14718
+file_num: 91 access_count: 35429
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 13082
+file_num: 96 access_count: 34189
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 46845
+file_num: 105 access_count: 545
+file_num: 106 access_count: 15929
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 41682
+file_num: 109 access_count: 2975
+file_num: 110 access_count: 5777
+file_num: 111 access_count: 9754
+file_num: 112 access_count: 1798
+file_num: 113 access_count: 3019
+file_num: 115 access_count: 117692
+file_num: 116 access_count: 1569
+file_num: 117 access_count: 2145
+file_num: 119 access_count: 77451
+file_num: 121 access_count: 12262
+file_num_end
+file_num_begin_access_count: 6900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 26814
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 68084
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 15947
+file_num: 91 access_count: 37753
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 14293
+file_num: 96 access_count: 36520
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 53946
+file_num: 105 access_count: 545
+file_num: 106 access_count: 18716
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 47238
+file_num: 109 access_count: 3473
+file_num: 110 access_count: 6548
+file_num: 111 access_count: 11991
+file_num: 112 access_count: 2230
+file_num: 113 access_count: 3990
+file_num: 115 access_count: 135844
+file_num: 116 access_count: 2096
+file_num: 117 access_count: 2809
+file_num: 119 access_count: 98435
+file_num: 121 access_count: 28508
+file_num_end
+file_num_begin_access_count: 7100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 27791
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 71487
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 17424
+file_num: 91 access_count: 40572
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 15763
+file_num: 96 access_count: 39238
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 85686
+file_num: 105 access_count: 545
+file_num: 106 access_count: 29236
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 54299
+file_num: 109 access_count: 4131
+file_num: 110 access_count: 7591
+file_num: 111 access_count: 14709
+file_num: 112 access_count: 2805
+file_num: 113 access_count: 5236
+file_num: 115 access_count: 166239
+file_num: 116 access_count: 2774
+file_num: 117 access_count: 3733
+file_num: 119 access_count: 130486
+file_num: 121 access_count: 58121
+file_num: 123 access_count: 4268
+file_num_end
+(compaction)file_number: 123
+(compaction)file_number: 121
+(compaction)file_number: 119
+(compaction)file_number: 115
+(compaction)file_number: 104
+(compaction)file_number: 106
+(compaction)file_number: 108
+(compaction)file_number: 109
+file_num_begin_access_count: 7300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 28691
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 73861
+file_num: 79 access_count: access_count: 129796
+7300001file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 18924
+file_num: 91 access_count: 43414
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 17286
+file_num: 96 access_count: 41965
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 8769
+file_num: 111 access_count: 16643
+file_num: 112 access_count: 3927
+file_num: 113 access_count: 6615
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 3606
+file_num: 117 access_count: 14063
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 48
+file_num: 125 access_count: 59
+file_num: 126 access_count: 27
+file_num: 127 access_count: 762
+file_num: 128 access_count: 124
+file_num: 129 access_count: 3
+file_num_end
+file_num_begin_access_count: 7400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 32541
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89449
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 20284
+file_num: 91 access_count: 45989
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 18567
+file_num: 96 access_count: 44466
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 9869
+file_num: 111 access_count: 17580
+file_num: 112 access_count: 5464
+file_num: 113 access_count: 7988
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 4427
+file_num: 117 access_count: 15868
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 941
+file_num: 125 access_count: 1115
+file_num: 126 access_count: 474
+file_num: 127 access_count: 2978
+file_num: 128 access_count: 2520
+file_num: 129 access_count: 93
+file_num_end
+(compaction)file_number: 128
+(compaction)file_number: 117
+(compaction)file_number: 77
+(compaction)file_number: 71
+file_num_begin_access_count: 7600000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 22268
+file_num: 91 access_count: 49669
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 20514
+file_num: 96 access_count: 48140
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 12937
+file_num: 111 access_count: 32719
+file_num: 112 access_count: 15231
+file_num: 113 access_count: 21276
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 5675
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 3826
+file_num: 125 access_count: 4677
+file_num: 126 access_count: 8977
+file_num: 127 access_count: 8175
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 389
+file_num: 130 access_count: 89
+file_num: 131 access_count: 48
+file_num: 132 access_count: 1329
+file_num: 134 access_count: 13485
+file_num: 135 access_count: 11
+file_num_end
+(compaction)file_number: 126
+(compaction)file_number: 111
+(compaction)file_number: 112
+(compaction)file_number: 113
+file_num_begin_access_count: 7800000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 25828
+file_num: 91 access_count: 56192
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 23970
+file_num: 96 access_count: 54723
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 19939
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 8127
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 11715
+file_num: 125 access_count: 13819
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 14730
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 1309
+file_num: 130 access_count: 905
+file_num: 131 access_count: 556
+file_num: 132 access_count: 5479
+file_num: 134 access_count: 62444
+file_num: 135 access_count: 147
+file_num: 136 access_count: 259
+file_num: 137 access_count: 238
+file_num: 138 access_count: 346
+file_num: 139 access_count: 120
+file_num: 141 access_count: 18644
+file_num_end
+file_num_begin_access_count: 8000000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 28535
+file_num: 91 access_count: 61548
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 26680
+file_num: 96 access_count: 59922
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 26551
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 10243
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 19912
+file_num: 125 access_count: 22944
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 21000
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 2234
+file_num: 130 access_count: 2157
+file_num: 131 access_count: 1404
+file_num: 132 access_count: 9671
+file_num: 134 access_count: 105064
+file_num: 135 access_count: 309
+file_num: 136 access_count: 969
+file_num: 137 access_count: 865
+file_num: 138 access_count: 1267
+file_num: 139 access_count: 396
+file_num: 141 access_count: 70544
+file_num: 143 access_count: 2928
+file_num_end
+file_num_begin_access_count: 8100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 29753
+file_num: 91 access_count: 63746
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 27816
+file_num: 96 access_count: 62096
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 29261
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 11113
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 23833
+file_num: 125 access_count: 27019
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 23810
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 2706
+file_num: 130 access_count: 2830
+file_num: 131 access_count: 1853
+file_num: 132 access_count: 11662
+file_num: 134 access_count: 123874
+file_num: 135 access_count: 412
+file_num: 136 access_count: 1363
+file_num: 137 access_count: 1244
+file_num: 138 access_count: 1754
+file_num: 139 access_count: 558
+file_num: 141 access_count: 94624
+file_num: 143 access_count: 16867
+file_num_end
+file_num_begin_access_count: 8200000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 30953
+file_num: 91 access_count: 65982
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 28931
+file_num: 96 access_count: 64279
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 31902
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 12030
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 27853
+file_num: 125 access_count: 31213
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 26742
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 3140
+file_num: 130 access_count: 3636
+file_num: 131 access_count: 2365
+file_num: 132 access_count: 13685
+file_num: 134 access_count: 142451
+file_num: 135 access_count: 515
+file_num: 136 access_count: 1848
+file_num: 137 access_count: 1662
+file_num: 138 access_count: 2329
+file_num: 139 access_count: 725
+file_num: 141 access_count: 118467
+file_num: 143 access_count: 34390
+file_num_end
+file_num_begin_access_count: 8400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 32084
+file_num: 91 access_count: 68228
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 30056
+file_num: 96 access_count: 66505
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 34848
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 12998
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 53949
+file_num: 125 access_count: 56468
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 29903
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 3661
+file_num: 130 access_count: 4564
+file_num: 131 access_count: 2951
+file_num: 132 access_count: 15880
+file_num: 134 access_count: 169723
+file_num: 135 access_count: 631
+file_num: 136 access_count: 2390
+file_num: 137 access_count: 2186
+file_num: 138 access_count: 2995
+file_num: 139 access_count: 970
+file_num: 141 access_count: 147295
+file_num: 143 access_count: 61025
+file_num: 145 access_count: 6269
+file_num_end
+file_num_begin_access_count: 8400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: access_count: 26 access_count: 840000116977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 32084
+file_num: 91 access_count: 68228
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 30056
+file_num: 96 access_count: 66505
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 34848
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 12998
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 53949
+file_num: 125 access_count: 56468
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 29903
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 3661
+file_num: 130 access_count: 4564
+file_num: 131 access_count: 2951
+file_num: 132 access_count: 15880
+file_num: 134 access_count: 169723
+file_num: 135 access_count: 631
+file_num: 136 access_count: 2390
+file_num: 137 access_count: 2186
+file_num: 138 access_count: 2995
+file_num: 139 access_count: 970
+file_num: 141 access_count: 147296
+file_num: 143 access_count: 61025
+file_num: 145 access_count: 6269
+file_num_end
+(compaction)file_number: 145
+(compaction)file_number: 143
+(compaction)file_number: 141
+(compaction)file_number: 134
+(compaction)file_number: 124
+(compaction)file_number: 125
+(compaction)file_number: 127
+(compaction)file_number: 129
+(compaction)file_number: 146
+(compaction)file_number: 90
+(compaction)file_number: 91
+(compaction)file_number: 147
+(compaction)file_number: 154
+(compaction)file_number: 95
+(compaction)file_number: 96
+file_num_begin_access_count: 8900000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 43782
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 16608
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 8219
+file_num: 131 access_count: 5411
+file_num: 132 access_count: 22973
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1127
+file_num: 136 access_count: 4958
+file_num: 137 access_count: 4612
+file_num: 138 access_count: 10967
+file_num: 139 access_count: 2014
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 3283
+file_num: 149 access_count: 5760
+file_num: 150 access_count: 12846
+file_num: 151 access_count: 379
+file_num: 152 access_count: 88
+file_num: 153 access_count: 94
+file_num: 154 access_count: 59
+file_num: 156 access_count: 19321
+file_num: 157 access_count: 0
+file_num: 158 access_count: 0
+file_num: 159 access_count: 0
+file_num: 160 access_count: 172
+file_num_end
+file_num_begin_access_count: 9000000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 47070
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 17985
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 9684
+file_num: 131 access_count: 6489
+file_num: 132 access_count: 25658
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1333
+file_num: 136 access_count: 6047
+file_num: 137 access_count: 5664
+file_num: 138 access_count: 14373
+file_num: 139 access_count: 2477
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 6337
+file_num: 149 access_count: 10553
+file_num: 150 access_count: 21540
+file_num: 151 access_count: 734
+file_num: 152 access_count: 328
+file_num: 153 access_count: 887
+file_num: 154 access_count: 59
+file_num: 156 access_count: 45951
+file_num: 157 access_count: 87
+file_num: 158 access_count: 83
+file_num: 159 access_count: 77
+file_num: 160 access_count: 1188
+file_num: 162 access_count: 1933
+file_num_end
+file_num_begin_access_count: 9100000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 49684
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 19111
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 11042
+file_num: 131 access_count: 7386
+file_num: 132 access_count: 27792
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1517
+file_num: 136 access_count: 6987
+file_num: 137 access_count: 6580
+file_num: 138 access_count: 17099
+file_num: 139 access_count: 2877
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 9133
+file_num: 149 access_count: 14975
+file_num: 150 access_count: 28925
+file_num: 151 access_count: 1080
+file_num: 152 access_count: 665
+file_num: 153 access_count: 2743
+file_num: 154 access_count: 59
+file_num: 156 access_count: 69268
+file_num: 157 access_count: 255
+file_num: 158 access_count: 284
+file_num: 159 access_count: 288
+file_num: 160 access_count: 2068
+file_num: 162 access_count: 20321
+file_num_end
+file_num_begin_access_count: 9200000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 52382
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 20311
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 12426
+file_num: 131 access_count: 8387
+file_num: 132 access_count: 29989
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1695
+file_num: 136 access_count: 7972
+file_num: 137 access_count: 7578
+file_num: 138 access_count: 19953
+file_num: 139 access_count: 3270
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 12297
+file_num: 149 access_count: 19734
+file_num: 150 access_count: 36725
+file_num: 151 access_count: 1491
+file_num: 152 access_count: 1040
+file_num: 153 access_count: 4616
+file_num: 154 access_count: 59
+file_num: 156 access_count: 91952
+file_num: 157 access_count: 521
+file_num: 158 access_count: 588
+file_num: 159 access_count: 578
+file_num: 160 access_count: 3005
+file_num: 162 access_count: 44296
+file_num_end
+file_num_begin_access_count: 9300000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 54605
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 21281
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 13592
+file_num: 131 access_count: 9184
+file_num: 132 access_count: 31859
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1845
+file_num: 136 access_count: 8789
+file_num: 137 access_count: 8355
+file_num: 138 access_count: 22260
+file_num: 139 access_count: 3597
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 15055
+file_num: 149 access_count: 23690
+file_num: 150 access_count: 43119
+file_num: 151 access_count: 1874
+file_num: 152 access_count: 1423
+file_num: 153 access_count: 6196
+file_num: 154 access_count: 59
+file_num: 156 access_count: 111233
+file_num: 157 access_count: 838
+file_num: 158 access_count: 879
+file_num: 159 access_count: 898
+file_num: 160 access_count: 3844
+file_num: 162 access_count: 65637
+file_num: 164 access_count: 6308
+file_num_end
+file_num_begin_access_count: 9400000
+file_num: 9 access_count: 117781
+file_num: 11 access_count: 96343
+file_num: 13 access_count: 57966
+file_num: 15 access_count: 8140
+file_num: 16 access_count: 108928
+file_num: 17 access_count: 108745
+file_num: 18 access_count: 22544
+file_num: 20 access_count: 157829
+file_num: 22 access_count: 117012
+file_num: 24 access_count: 70833
+file_num: 26 access_count: 16977
+file_num: 27 access_count: 115955
+file_num: 28 access_count: 227905
+file_num: 29 access_count: 167464
+file_num: 30 access_count: 172464
+file_num: 31 access_count: 16355
+file_num: 33 access_count: 154675
+file_num: 35 access_count: 109391
+file_num: 37 access_count: 60430
+file_num: 39 access_count: 6023
+file_num: 40 access_count: 109814
+file_num: 41 access_count: 109019
+file_num: 42 access_count: 24853
+file_num: 44 access_count: 164578
+file_num: 46 access_count: 118833
+file_num: 48 access_count: 69570
+file_num: 50 access_count: 13505
+file_num: 51 access_count: 1988
+file_num: 52 access_count: 56054
+file_num: 53 access_count: 57307
+file_num: 54 access_count: 56690
+file_num: 55 access_count: 19239
+file_num: 56 access_count: 72982
+file_num: 57 access_count: 53435
+file_num: 59 access_count: 175181
+file_num: 61 access_count: 127298
+file_num: 63 access_count: 95987
+file_num: 65 access_count: 17514
+file_num: 66 access_count: 73136
+file_num: 67 access_count: 37922
+file_num: 68 access_count: 1057
+file_num: 69 access_count: 38193
+file_num: 70 access_count: 7261
+file_num: 71 access_count: 39861
+file_num: 72 access_count: 48857
+file_num: 73 access_count: 61348
+file_num: 74 access_count: 65632
+file_num: 76 access_count: 181368
+file_num: 77 access_count: 89772
+file_num: 79 access_count: 129796
+file_num: 81 access_count: 75818
+file_num: 83 access_count: 17393
+file_num: 84 access_count: 4509
+file_num: 85 access_count: 13189
+file_num: 86 access_count: 34472
+file_num: 87 access_count: 51708
+file_num: 88 access_count: 62289
+file_num: 89 access_count: 7502
+file_num: 90 access_count: 51407
+file_num: 91 access_count: 89159
+file_num: 92 access_count: 44
+file_num: 94 access_count: 181702
+file_num: 95 access_count: 51333
+file_num: 96 access_count: 90670
+file_num: 97 access_count: 20898
+file_num: 99 access_count: 128842
+file_num: 101 access_count: 75616
+file_num: 103 access_count: 15237
+file_num: 104 access_count: 90266
+file_num: 105 access_count: 545
+file_num: 106 access_count: 43477
+file_num: 107 access_count: 5404
+file_num: 108 access_count: 78332
+file_num: 109 access_count: 7546
+file_num: 110 access_count: 56807
+file_num: 111 access_count: 32823
+file_num: 112 access_count: 15374
+file_num: 113 access_count: 25205
+file_num: 115 access_count: 184708
+file_num: 116 access_count: 22191
+file_num: 117 access_count: 16144
+file_num: 119 access_count: 148880
+file_num: 121 access_count: 76374
+file_num: 123 access_count: 16237
+file_num: 124 access_count: 56060
+file_num: 125 access_count: 58782
+file_num: 126 access_count: 9103
+file_num: 127 access_count: 49200
+file_num: 128 access_count: 3085
+file_num: 129 access_count: 7942
+file_num: 130 access_count: 14749
+file_num: 131 access_count: 10017
+file_num: 132 access_count: 33737
+file_num: 134 access_count: 187261
+file_num: 135 access_count: 1995
+file_num: 136 access_count: 9695
+file_num: 137 access_count: 9166
+file_num: 138 access_count: 24583
+file_num: 139 access_count: 3961
+file_num: 141 access_count: 164752
+file_num: 143 access_count: 78336
+file_num: 145 access_count: 18448
+file_num: 146 access_count: 2287
+file_num: 147 access_count: 8390
+file_num: 148 access_count: 17926
+file_num: 149 access_count: 27683
+file_num: 150 access_count: 49571
+file_num: 151 access_count: 2304
+file_num: 152 access_count: 1845
+file_num: 153 access_count: 7785
+file_num: 154 access_count: 59
+file_num: 156 access_count: 130102
+file_num: 157 access_count: 1172
+file_num: 158 access_count: 1199
+file_num: 159 access_count: 1238
+file_num: 160 access_count: 4685
+file_num: 162 access_count: 86772
+file_num: 164 access_count: 21913
+file_num_end

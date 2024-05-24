@@ -1,0 +1,213 @@
+file_num_begin_access_count: 10200000
+file_num: 14300038735373918 access_count: 28
+file_num: 518703197000869470 access_count: 0
+file_num: 662818385076725342 access_count: 108407
+file_num: 806933573152581214 access_count: 0
+file_num: 951048761228437086 access_count: 119785
+file_num: 1095163949304292958 access_count: 0
+file_num: 1671624701607716446 access_count: 1
+file_num: 1959855077759428190 access_count: 0
+file_num: 2320143047949067870 access_count: 3
+file_num: 2824546206214563422 access_count: 0
+file_num: 3112776582366275166 access_count: 6
+file_num: 3256891770442131038 access_count: 4101
+file_num: 3401006958517986910 access_count: 475
+file_num: 3977467710821410398 access_count: 0
+file_num: 4265698086973122142 access_count: 0
+file_num: 4625986057162761822 access_count: 2378
+file_num: 4842158839276545630 access_count: 25
+file_num: 5130389215428257374 access_count: 0
+file_num: 5418619591579969118 access_count: 0
+file_num: 5562734779655824990 access_count: 64667
+file_num: 5995080343883392606 access_count: 1
+file_num: 6139195531959248478 access_count: 18658
+file_num: 6283310720035104350 access_count: 0
+file_num: 6427425908110960222 access_count: 80214
+file_num: 6571541096186816094 access_count: 0
+file_num: 6859771472338527838 access_count: 38
+file_num: 6931829066376455774 access_count: 1645
+file_num: 7292117036566095454 access_count: 18378
+file_num: 7724462600793663070 access_count: 0
+file_num: 7868577788869518942 access_count: 59740
+file_num: 8012692976945374814 access_count: 0
+file_num: 8300923353097086558 access_count: 0
+file_num: 8445038541172942430 access_count: 18601
+file_num: 8589153729248798302 access_count: 0
+file_num: 8733268917324654174 access_count: 18586
+file_num: 8877384105400510046 access_count: 0
+file_num: 9021499293476365918 access_count: 20
+file_num: 9165614481552221790 access_count: 24
+file_num: 9453844857703933534 access_count: 974
+file_num: 9597960045779789406 access_count: 252826
+file_num: 9886190421931501150 access_count: 102994
+file_num: 10318535986159068766 access_count: 0
+file_num: 10462651174234924638 access_count: 141695
+file_num: 10606766362310780510 access_count: 36
+file_num: 10750881550386636382 access_count: 134381
+file_num: 11039111926538348126 access_count: 97894
+file_num: 11327342302690059870 access_count: 17576
+file_num: 11471457490765915742 access_count: 0
+file_num: 11759687866917627486 access_count: 322
+file_num: 11903803054993483358 access_count: 8233
+file_num: 12047918243069339230 access_count: 8
+file_num: 12192033431145195102 access_count: 177818
+file_num: 12768494183448618590 access_count: 103096
+file_num: 12912609371524474462 access_count: 1
+file_num: 13056724559600330334 access_count: 138344
+file_num: 13344954935752042078 access_count: 306078
+file_num: 13633185311903753822 access_count: 2377
+file_num: 13777300499979609694 access_count: 1393
+file_num: 13849358094017537630 access_count: 2
+file_num: 14065530876131321438 access_count: 4
+file_num: 14209646064207177310 access_count: 59065
+file_num: 14353761252283033182 access_count: 0
+file_num: 14497876440358889054 access_count: 217819
+file_num: 14641991628434744926 access_count: 0
+file_num: 14786106816510600798 access_count: 6138
+file_num: 14930222004586456670 access_count: 6
+file_num: 15074337192662312542 access_count: 128208
+file_num: 15218452380738168414 access_count: 0
+file_num: 15362567568814024286 access_count: 18407
+file_num: 15506682756889880158 access_count: 0
+file_num: 15650797944965736030 access_count: 21308
+file_num: 15794913133041591902 access_count: 29
+file_num: 15939028321117447774 access_count: 7523
+file_num: 16083143509193303646 access_count: 70
+file_num: 16371373885345015390 access_count: 88
+file_num: 16515489073420871262 access_count: 38351
+file_num: 16659604261496727134 access_count: 5
+file_num: 16803719449572583006 access_count: 139820
+file_num: 16947834637648438878 access_count: 1
+file_num: 17091949825724294750 access_count: 383
+file_num: 17236065013800150622 access_count: 238
+file_num: 17380180201876006494 access_count: 62891
+file_num: 17524295389951862366 access_count: 0
+file_num: 17812525766103574110 access_count: 0
+file_num: 17956640954179429982 access_count: 8951
+file_num: 18100756142255285854 access_count: 0
+file_num: 18244871330331141726 access_count: 23
+file_num: 18388986518406997598 access_count: 450
+file_num_end
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 16116924557091987245
+(compaction)file: 11505238538664599341
+(compaction)file: 18422767566305681197
+(compaction)file: 13811081547878293293
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 13234620795574869805
+(compaction)file: 14387542300181716781
+(compaction)file: 9775856281754328877
+(compaction)file: 16693385309395410733
+(compaction)level: 1
+(compaction)file: 2858327254113247021
+(compaction)file: 12081699290968022829
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 10064086657906040621
+(compaction)file: 16981615685547122477
+(compaction)file: 12369929667119734573
+(compaction)file: 10928777786361175853
+(compaction)level: 1
+(compaction)file: 8622934777147481901
+(compaction)file: 17846306814002257709
+(compaction)file: 6317091767933787949
+(compaction)file: 15540463804788563757
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 7181782896388923181
+(compaction)file: 2570096877961535277
+(compaction)file: 11217008162512887597
+(compaction)file: 13522851171726581549
+(compaction)level: 1
+(compaction)file: 6605322144085499693
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 10640547410209464109
+(compaction)file: 17558076437850545965
+(compaction)file: 12946390419423158061
+(compaction)file: 4875939887175229229
+(compaction)level: 1
+(compaction)file: 16405154933243698989
+(compaction)file: 264253868747841325
+(compaction)file: 14099311924030005037
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 13666966359802437421
+(compaction)file: 14819887864409284397
+(compaction)file: 10208201845981896493
+(compaction)file: 12514044855195590445
+(compaction)level: 1
+(compaction)file: 6028861391782076205
+(compaction)file: 15252233428636852013
+(compaction)file: 7902358836768202541
+(compaction)file: 17125730873622978349
+compaction begin: 
+(compaction)level: 1
+(compaction)file: 9055280341375049517
+(compaction)level: 2
+(compaction)file: 5452400639478652717
+compaction begin: 
+(compaction)level: 1
+(compaction)file: 2714212066037391149
+(compaction)level: 2
+(compaction)file: 18134537190153969453
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 8478819589071626029
+(compaction)file: 5020055075251085101
+(compaction)file: 7325898084464779053
+(compaction)file: 11361123350588743469
+(compaction)level: 1
+(compaction)file: 18278652378229825325
+(compaction)file: 6749437332161355565
+(compaction)file: 15972809369016131373
+compaction begin: 
+(compaction)level: 1
+(compaction)file: 16837500497471266605
+(compaction)level: 2
+(compaction)file: 3867133570644238125
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 8767049965223337773
+(compaction)file: 14531657488257572653
+(compaction)file: 7614128460616490797
+(compaction)file: 65798579320778685459
+(compaction)level: 1
+(compaction)file: 1561290561430544173
+(compaction)file: 15396348616712707885
+(compaction)file: 3002442442189102893
+(compaction)file: 696599432975408941
+175compaction begin: 
+(compaction)level: 1
+(compaction)file: 1849520937582255917
+(compaction)level: 2
+(compaction)file: 14675772676333428525
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 12802275231347302189
+(compaction)file: 4731824699099373357
+(compaction)file: 16261039745167843117
+(compaction)file: 6461206956009643821
+(compaction)level: 1
+(compaction)file: 17990422002078113581
+(compaction)file: 15684578992864419629
+(compaction)file: 2425981689885679405
+(compaction)file: 11649353726740455213
+compaction begin: 
+(compaction)level: 1
+(compaction)file: 5884746203706220333
+(compaction)level: 2
+(compaction)file: 8911165153299193645
+compaction begin: 
+(compaction)level: 0
+(compaction)file: 4515651916985589549
+(compaction)file: 5668573421592436525
+(compaction)file: 7974416430806130477
+(compaction)file: 10496432222133608237
+(compaction)level: 1
+(compaction)file: 8190589212919914285
+(compaction)file: 17413961249774690093
+(compaction)file: 15108118240560996141
+(compaction)file: 3362730412378742573
