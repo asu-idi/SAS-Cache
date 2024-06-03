@@ -18,6 +18,10 @@ Current secondary cache can cause explicit read performance regression due to th
 
 3. There exists large amount of invalid items retained in the secondary cache.
 
+![ops](figures/motiation1.png)
+
+![ops](figures/motiation2.png)
+
 
 ## Challenges
 
@@ -29,14 +33,26 @@ Current secondary cache can cause explicit read performance regression due to th
 
 ## Proposed Schemes
 
+![ops](figures/arc1.png)
+
+
 1. LSM-Managed Cache Filter: employs a lightweight synchronization method for regular cache items and asynchronous reconstruction to synchronize invalid cache items.
 
+![ops](figures/arc3.png)
+
 2. Valid SST-Aware Insertion Control: employs recording compacted file numbers instead of cache item cache-keys, and utilize a queue to manage these file numbers.
+
+![ops](figures/arc2.png)
 
 3. Compaction-Aware Cache Replacement: async prefix eviction utilizing the file numbers, and multi-level prefetching.
 
 ## Evaluation Results
 
+SAS-Cache can achieve about 36% of the throughput improvement, and 20% of latency reduction compared with the state-of-theart secondary cache.
+
+![ops](figures/eva1.png)
+
+![ops](figures/eva2.png)
 
 
 ## Implementation and Setup Instructions
